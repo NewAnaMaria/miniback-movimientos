@@ -1,0 +1,46 @@
+{
+    "movimientos":[
+        {
+            "id": 1,
+            "descroption": "Compra del mercado semanal",
+            "price": 200000,
+            "type": "gasto"
+        },
+        {
+            "id": 2,
+            "descroption": "Salida recreativa semanal",
+            "price": 100000,
+            "type": "gasto"
+        },
+        {
+            "id": 3,
+            "descroption": "Almuerzo familiar fin de semana",
+            "price": 150000,
+            "type": "gasto"
+        },
+        {
+            "id": 4,
+            "descroption": "Gasolina semanal",
+            "price": 100000,
+            "type": "gasto"
+        },
+        {
+            "id": 5,
+            "descroption": "Pago de honorarios semanal",
+            "price": 1000000,
+            "type": "ingreso"
+        },
+        {
+            "id": 6,
+            "descroption": "Pago renta mensual",
+            "price": 200000,
+            "type": "ingreso"
+        },
+        {
+            "id": 7,
+            "descroption": "Pago administración",
+            "price": 100000,
+            "type": "gasto"
+        }
+    ]
+}
